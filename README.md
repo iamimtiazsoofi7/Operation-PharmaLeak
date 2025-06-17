@@ -8,11 +8,8 @@ A leading pharmaceutical company was on the verge of launching a groundbreaking 
 
 ---
 
-## 👨‍💻 Project Team
-- **Sudipto Das** – 2022BCY0007  
-- **Imtiaz** – 2022BCY0006  
-- **Mokshith** – 2022BCY0004  
-
+## 👨‍💻 Project author
+- **Syed Imtiaz Ali Soofi** – 2022BCY0006  
 ---
 
 ## 📖 Project Overview
